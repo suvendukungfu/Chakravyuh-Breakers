@@ -1,0 +1,3 @@
+This project explores hidden patterns in a real-world astronomical dataset using statistical techniques like Benford’s Law and Z-score analysis. It is part of a course project for the Fundamentals of AI, aimed at understanding natural data distributions, detecting anomalies, and drawing meaningful insights from exploratory data analysis (EDA).
+
+We analyze the Distance (ly) column in the Stars Dataset, investigate whether it follows Benford’s Law, and use Z-scores and box plots to detect statistical outliers. This fusion of AI, statistics, and astrophysics helps determine whether the data behaves naturally and supports the validity of observed patterns.
